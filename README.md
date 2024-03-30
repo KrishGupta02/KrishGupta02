@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and python
 - 📫 How to reach me via my email-krishgupta2717@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a working knowledge of C,java and little bit of c++
+- ⚡ Fun fact: I have a working knowledge of HTML CSS, C,java and little bit of c++
 
 
 
